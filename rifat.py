@@ -1,6 +1,6 @@
 print("Hello")
 a = 50
-age = s
+age = 40
 
 print(a)
 
